@@ -1,0 +1,2 @@
+# cupsArch
+ my arch rice
